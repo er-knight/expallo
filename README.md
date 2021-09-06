@@ -31,7 +31,7 @@ stored in data.json
 usage: expallo.py [-h] S E N {csv,json}
 expallo.py: error: argument F: invalid choice: 'txt' (choose from 'csv', 'json')
 ```
-⦿ creating shortcut with `alias`.
+⦿ creating shortcut with `alias` (requires [`bash`](https://www.gnu.org/software/bash/)).
 ```sh
 ~$ alias expallo="python3 expallo.py"
 ```
